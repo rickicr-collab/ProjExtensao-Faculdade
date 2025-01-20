@@ -16,7 +16,7 @@ Este é um aplicativo móvel desenvolvido para auxiliar no cadastro de alunos do
   - Envio das informações cadastradas por e-mail para a congregação.
 
 - **Informações do Local**:
-  - Nome: Congregacão Florescer.
+  - Nome: Igreja Congregacional Batista Renovada.
   - Endereço completo.
   - CNPJ.
 
@@ -57,5 +57,5 @@ Certifique-se de configurar as permissões no arquivo **app.json** para envio de
 4. Escaneie o QR Code no terminal usando o aplicativo Expo Go.
 
 ## Contato
-Caso tenha dúvidas ou precise de suporte, entre em contato com a **Congregação Florescer** pelo e-mail: **congregacaoflorescer@example.com**.
+Caso tenha dúvidas ou precise de suporte, entre em contato com a **Congregação Florescer** pelo e-mail: **congregacaoflorescer@gmail.com**.
 
