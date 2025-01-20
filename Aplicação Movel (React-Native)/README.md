@@ -1,7 +1,7 @@
 # Aplicativo Móvel: Curso de Música Florescer
 
 ## Descrição
-Este é um aplicativo móvel desenvolvido para auxiliar no cadastro de alunos do **Curso de Música Florescer**, realizado pela **Congregação Florescer**. O objetivo é proporcionar uma experiência simples e eficiente para organizar as informações dos alunos e compartilhar dados relevantes do curso.
+Este é um aplicativo móvel desenvolvido para auxiliar no cadastro de alunos do **Curso de Música Florescer**, O objetivo é proporcionar uma experiência simples e eficiente para organizar as informações dos alunos e compartilhar dados relevantes do curso.
 
 ## Principais Funcionalidades
 - **Tela Inicial**:
